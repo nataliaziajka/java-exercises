@@ -1,4 +1,4 @@
-package HackerRankExercises;
+package HackerRankExercises.Easy;
 import java.time.LocalDate;
 
 public class Java_Date_and_Time {

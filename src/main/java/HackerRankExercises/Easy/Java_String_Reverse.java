@@ -1,4 +1,4 @@
-package HackerRankExercises;
+package HackerRankExercises.Easy;
 import java.util.*;
 public class Java_String_Reverse {
 

@@ -1,4 +1,4 @@
-package HackerRankExercises;
+package HackerRankExercises.Easy;
 import java.util.*;
 import java.text.*;
 public class Java_Currency_Formatter {

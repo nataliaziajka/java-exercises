@@ -1,4 +1,4 @@
-package HackerRankExercises;
+package HackerRankExercises.Easy;
 
 public class Java_Int_To_String {
     private int n;
